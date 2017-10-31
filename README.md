@@ -24,3 +24,5 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+"# appTest" 
+"# Jade LLanes Ing‚sup B3" 
