@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-//En commentaire : ce qu'a fait le prof
 
 
 @Component({
